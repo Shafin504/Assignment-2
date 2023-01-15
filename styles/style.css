@@ -337,8 +337,8 @@ ul li{
     .main{
         display: flex;
         flex-direction: column;
-        width: 500px;
-        Height:700px;
+        width: 100%;
+        Height:100%;
         
     }
     .brand-div{
