@@ -310,7 +310,7 @@ footer{
 @media only screen and (max-width:688px){
     /* Navigation */
    .architect{
-    width: 100%;
+    width: 200px;
     height: 250px;
    }
  nav ul{
@@ -322,7 +322,7 @@ footer{
     font-weight: 700;
     font-size: 30px;
     align-items: flex-start;
-    transform: translate(-90px,0);
+    transform: translate(-100px,0);
 }
 ul li{
     font-size: 14px;
@@ -330,18 +330,20 @@ ul li{
     padding-top: 10px;
     display: flex;
     color:#FD6E0A;
-    
+    transform: translate(-100px,0); 
 }
 
     /* Brand */
     .main{
         display: flex;
         flex-direction: column;
-        width: 500px;
-        Height:700px;
+        width: 100vh;
+        Height:100vw;
+        
     }
     .brand-div{
         font-size: 20px;
+        background-color: #FFF4E7;
     }
     b.description{
         font-size: 12px;
@@ -362,8 +364,8 @@ ul li{
         
     }
     #ban{
-        height: 300px;
-        width: 240px;
+        height: 350px;
+        width: 260px;
         transform: translate(-120px,0);
     }
     /* Team */
