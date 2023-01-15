@@ -366,7 +366,7 @@ ul li{
     #ban{
         height: 350px;
         width: 260px;
-        transform: translate(-200px,0);
+        transform: translate(-120px,0);
         align-items: center;
     }
     /* Team */
