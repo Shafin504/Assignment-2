@@ -307,7 +307,7 @@ footer{
 /*........... media queries for small device
 ............................................... */
 
-@media only screen and (max-width:688px){
+@media only screen and (max-width:576px){
     /* Navigation */
    .architect{
     width: 200px;
