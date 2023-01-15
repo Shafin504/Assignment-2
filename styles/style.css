@@ -337,8 +337,8 @@ ul li{
     .main{
         display: flex;
         flex-direction: column;
-        width: 100vh;
-        Height:100vw;
+        width: 500px;
+        Height:700px;
         
     }
     .brand-div{
@@ -364,9 +364,10 @@ ul li{
         
     }
     #ban{
-        height: 350px;
-        width: 260px;
-        transform: translate(-70px,0);
+        height: 300px;
+        width: 240px;
+        transform: translate(-110px,0);
+        margin-left: 200px;
     }
     /* Team */
     .features{
